@@ -82,14 +82,14 @@
                 Prévia:
                 <div class="modelo modelo2 ff-roboto-mono">
                     <img src="../../../../assets/imagens/modelo3.png" alt="Aspas verdes">
-                    <p (click)="criarPensamento()" class="conteudo">{{ pensamento.conteudo }}</p>
-                    <p (click)="cancelar()" class="autoria"><b>{{ pensamento.autoria }}</b></p>
+                    <p class="conteudo">{{ pensamento.conteudo }}</p>
+                    <p class="autoria"><b>{{ pensamento.autoria }}</b></p>
                 </div>
             </div>
         </div>
         <div class="acoes">
-            <button class="botao">Salvar</button>
-            <button class="botao">Cancelar</button>
+            <button (click)="criarPensamento()" class="botao">Salvar</button>
+            <button (click)="cancelar()" class="botao" routerLink="/listarPensamento">Cancelar</button>
         </div>
     </form>
 </section>
