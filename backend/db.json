@@ -2,33 +2,33 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Deus, para a felicidade do homem, inventou a fé e o amor. O Diabo, invejoso, fez o homem confundir fé com religião e amor com casamento.",
-      "autoria": "Machado de Assis",
+      "conteudo": "O que sabemos é uma gota; o que ignoramos é um oceano.",
+      "autoria": "Isaac Newton",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Cada qual sabe amar a seu modo; o modo, pouco importa; o essencial é que saiba amar.",
-      "autoria": "Machado de Assis",
+      "conteudo": "Duas coisas são infinitas: o universo e a estupidez humana; e eu não tenho certeza sobre o universo.",
+      "autoria": "Albert Einstein",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Esquecer é uma necessidade. A vida é uma lousa, em que o destino, para escrever um novo caso, precisa de apagar o caso escrito.",
-      "autoria": "Machado de Assis",
+      "conteudo": "A ciência é, portanto, uma perversão de si mesma, a menos que tenha como fim último, melhorar a humanidade.",
+      "autoria": "Nikola Tesla",
       "modelo": "modelo3"
     },
     {
       "id": 4,
-      "conteudo": "O dinheiro não traz felicidade — para quem não sabe o que fazer com ele.",
-      "autoria": "Machado de Assis",
+      "conteudo": "Não há diferença fundamental entre o Homem e os animais nas suas faculdades mentais(...) Os animais, como o Homem, demonstram sentir prazer, dor, felicidade e sofrimento.",
+      "autoria": "Charles Darwin",
       "modelo": "modelo1"
     },
     {
       "id": 5,
-      "conteudo": "Lágrimas não são argumentos!",
-      "autoria": "Machado de Assis",
-      "modelo": "modelo3"
+      "conteudo": "A prova de que no futuro não existirão viagens no tempo, é que não estamos sendo visitados pelos viajantes do futuro.",
+      "autoria": "Stephen Hawking",
+      "modelo": "modelo2"
     }
   ]
 }
