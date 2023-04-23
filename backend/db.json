@@ -1,34 +1,34 @@
 {
-    "pensamentos": [
-        {
-            "id": 1,
-            "conteudo": "Deus, para a felicidade do homem, inventou a fé e o amor. O Diabo, invejoso, fez o homem confundir fé com religião e amor com casamento.",
-            "autoria": "Machado de Assis",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 2,
-            "conteudo": "Cada qual sabe amar a seu modo; o modo, pouco importa; o essencial é que saiba amar.",
-            "autoria": "Machado de Assis",
-            "modelo": "modelo2"
-        },
-        {
-            "id": 3,
-            "conteudo": "Esquecer é uma necessidade. A vida é uma lousa, em que o destino, para escrever um novo caso, precisa de apagar o caso escrito.",
-            "autoria": "Machado de Assis",
-            "modelo": "modelo3"
-        },
-        {
-            "id": 4,
-            "conteudo": "O dinheiro não traz felicidade — para quem não sabe o que fazer com ele.",
-            "autoria": "Machado de Assis",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 5,
-            "conteudo": "Lágrimas não são argumentos.",
-            "autoria": "Machado de Assis",
-            "modelo": "modelo2"
-        }
-    ]
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Deus, para a felicidade do homem, inventou a fé e o amor. O Diabo, invejoso, fez o homem confundir fé com religião e amor com casamento.",
+      "autoria": "Machado de Assis",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Cada qual sabe amar a seu modo; o modo, pouco importa; o essencial é que saiba amar.",
+      "autoria": "Machado de Assis",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Esquecer é uma necessidade. A vida é uma lousa, em que o destino, para escrever um novo caso, precisa de apagar o caso escrito.",
+      "autoria": "Machado de Assis",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "O dinheiro não traz felicidade — para quem não sabe o que fazer com ele.",
+      "autoria": "Machado de Assis",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "Lágrimas não são argumentos!",
+      "autoria": "Machado de Assis",
+      "modelo": "modelo3"
+    }
+  ]
 }
