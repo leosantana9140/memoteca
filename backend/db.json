@@ -4,31 +4,36 @@
       "id": 1,
       "conteudo": "O que sabemos é uma gota; o que ignoramos é um oceano.",
       "autoria": "Isaac Newton",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Duas coisas são infinitas: o universo e a estupidez humana; e eu não tenho certeza sobre o universo.",
       "autoria": "Albert Einstein",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "A ciência é, portanto, uma perversão de si mesma, a menos que tenha como fim último, melhorar a humanidade.",
       "autoria": "Nikola Tesla",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Não há diferença fundamental entre o Homem e os animais nas suas faculdades mentais(...) Os animais, como o Homem, demonstram sentir prazer, dor, felicidade e sofrimento.",
       "autoria": "Charles Darwin",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 5,
       "conteudo": "A prova de que no futuro não existirão viagens no tempo, é que não estamos sendo visitados pelos viajantes do futuro.",
       "autoria": "Stephen Hawking",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     }
   ]
 }

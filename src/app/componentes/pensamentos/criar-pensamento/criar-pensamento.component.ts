@@ -23,12 +23,12 @@ export class CriarPensamentoComponent implements OnInit {
         Validators.required,
         Validators.minLength(3)
       ])],
-      modelo: ['modelo1']
+      modelo: ['modelo1'],
+      favorito: [false]
     })
   }
 
   criarPensamento() {
-    console.log(this.formulario.get('autoria')?.errors)
     if (this.formulario.valid) {
       this.pensamentoService.criar(this.formulario.value).subscribe(() => {
         this.router.navigate(['/listarPensamento'])
